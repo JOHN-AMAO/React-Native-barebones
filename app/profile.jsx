@@ -3,12 +3,10 @@ import React from "react";
 
 const Profile = () => {
   return (
-    <View>
+    <View className='flex-1 items-center justify-center'>
       <Text>Profile</Text>
     </View>
   );
 };
 
 export default Profile;
-
-const styles = StyleSheet.create({});
