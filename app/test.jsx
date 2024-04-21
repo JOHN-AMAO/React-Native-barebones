@@ -1,7 +1,7 @@
 import React from "react";
 
 const Test = () => {
-  return <div>Test</div>;
+  return <div className='flex-1 text-center justify-center'>Test</div>;
 };
 
 export default Test;
