@@ -40,6 +40,10 @@ const RootLayout = () => {
           name='profile'
           options={{ headerShown: false }}
         />
+        <Stack.Screen
+          name='test'
+          options={{ headerShown: false }}
+        />
       </Stack>
     </>
   );
