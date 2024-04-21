@@ -14,7 +14,7 @@ export default function App() {
       </Link>
       <Link
         href='/test'
-        className='text-white'
+        className='text-white mt-5 border-2 border-green-500'
       >
         Test
       </Link>
