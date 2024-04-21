@@ -12,6 +12,12 @@ export default function App() {
       >
         Go to Profile
       </Link>
+      <Link
+        href='/test'
+        className='text-white'
+      >
+        Test
+      </Link>
       <StatusBar style='auto' />
     </View>
   );
