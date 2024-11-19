@@ -1,1 +1,9 @@
-This is a basic react native app to help spin up a new project faster, it has Nativewind support for styling and a few other things.
+# Expo Router and Tailwind CSS
+
+Use [Expo Router](https://docs.expo.dev/router/introduction/) with [Nativewind](https://www.nativewind.dev/v4/overview/) styling.
+
+## 🚀 How to use
+
+```sh
+npx create-expo-app -e with-router-tailwind
+```
