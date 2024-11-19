@@ -28,7 +28,7 @@ export default function Layout() {
         options={{ headerShown: false }} 
       />
       <Stack.Screen 
-        name="dashboard" 
+        name="(main)" 
         options={{ headerShown: false }} 
       />
     </Stack>
