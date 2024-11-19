@@ -20,11 +20,11 @@ export default function Layout() {
         options={{ headerShown: false }} 
       />
       <Stack.Screen 
-        name="auth/signin" 
+        name="(auth)/signin" 
         options={{ headerShown: false }} 
       />
       <Stack.Screen 
-        name="auth/signup" 
+        name="(auth)/signup" 
         options={{ headerShown: false }} 
       />
       <Stack.Screen 

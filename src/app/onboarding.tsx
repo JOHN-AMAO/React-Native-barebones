@@ -51,7 +51,7 @@ const OnboardingScreen = () => {
             className="bg-white p-5 rounded-2xl shadow-lg shadow-blue-500/30"
             activeOpacity={0.8}
           >
-            <Link href="/auth/signup">
+            <Link href="/(auth)/signup">
               <Text className="text-blue-500 text-center font-bold text-lg">
                 Get Started
               </Text>
